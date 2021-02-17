@@ -6,6 +6,8 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Suyashi Singhal](https://github.com/suyashi912)
+
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
